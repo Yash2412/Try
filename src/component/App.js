@@ -1,5 +1,6 @@
 import React from 'react';
 import '../App.css';
+import Jeeves from './Jeeves';
 
 function App () {
    return (
