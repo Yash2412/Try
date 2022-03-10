@@ -5,7 +5,7 @@ import './App.css';
 function App () {
    return (
       <div className="App">
-         Lodu lassonjksnbdsalkjfbdfasfhbdsajfgjdsafhdsa
+         Maa chudae duniya
       </div>
    );
 }
