@@ -7,7 +7,8 @@ function App () {
       <div className="App">
          Maa chudae duniya
 
-         <h4>Lode Dost</h4>
+       <h4>Lode Dost</h4>
+       <h3>Gandu Yash</h3>
       </div>
    );
 }
